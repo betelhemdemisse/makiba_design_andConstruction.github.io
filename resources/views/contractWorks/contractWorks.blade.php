@@ -32,85 +32,164 @@
     <div class="tab-content">
 
       <div class="tab-pane active show" id="tab-1" role="tabpanel">
-        <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center aos-init" data-aos="fade-up" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 order-1 order-lg-2 text-center aos-init" data-aos="fade-up" data-aos-delay="200">
-            <img src="assets/img/metal1.jpg" alt="" class="img-fluid">
-          </div>
+        <section id="constructions" class="constructions">
+          <div class="container aos-init" data-aos="fade-up">
+                    <div class="row gy-4">
+  
+             <div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/metal5.jpg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div><div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/metal3.jpg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div>
+                    </div> </div>
+        </section>  
         </div>
-      </div><!-- End tab content item -->
-
+         
+      
       <div class="tab-pane" id="tab-2" role="tabpanel">
-        <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-            <h3>Neque exercitationem debitis</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-              <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 order-1 order-lg-2 text-center">
-            <img src="assets/img/gybsum3.jpg" alt="" class="img-fluid">
-          </div>
-        </div>
+        <section id="constructions" class="constructions">
+          <div class="container aos-init" data-aos="fade-up">
+                    <div class="row gy-4">
+  
+             <div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/gybsum3.jpg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div><div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/gybsum5.jpeg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div>
+                    </div> </div>
+        </section> 
       </div><!-- End tab content item -->
 
       <div class="tab-pane" id="tab-3" role="tabpanel">
-        <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-            <h3>Voluptatibus commodi accusamu</h3>
-            <ul>
-              <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check2-all"></i> Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</li>
-            </ul>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-          </div>
-          <div class="col-lg-6 order-1 order-lg-2 text-center">
-            <img src="assets/img/sanitary1.jpg" alt="" class="img-fluid">
-          </div>
-        </div>
-      </div><!-- End tab content item -->
+        <section id="constructions" class="constructions">
+          <div class="container aos-init" data-aos="fade-up">
+                    <div class="row gy-4">
+  
+             <div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/sanitaary.jpg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div><div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/sanitary1.jpg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div>
+                    </div> </div>
+        </section> 
+      </div>
 
       <div class="tab-pane" id="tab-4" role="tabpanel">
-        <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-            <h3>Omnis fugiat ea explicabo sunt</h3>
-            <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check2-all"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check2-all"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 order-1 order-lg-2 text-center">
-            <img src="assets/img/electrical3.jpg" alt="" class="img-fluid">
-          </div>
-        </div>
-      </div><!-- End tab content item -->
+        <section id="constructions" class="constructions">
+          <div class="container aos-init" data-aos="fade-up">
+                    <div class="row gy-4">
+  
+             <div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/electrical24.jpg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div><div class="col-lg-6 aos-init" data-aos="fade-up" data-aos-delay="100">
+            <div class="card-item">
+              <div class="row">
+              <div class="col-xl-5">
+               <div class="card-bg" style="background-image: url(assets/img/electrical3.jpg);">
+                                    </div>
+                                   </div>
+          <div class="col-xl-7 d-flex align-items-center">
+       <div class="card-body">
+                                    <h4 class="card-title"></h4>
+                                    <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                                   </div>
+                                   </div>
+                                   </div>
+                                   </div>
+                                  </div>
+                    </div> </div>
+        </section></div><!-- End tab content item -->
 
     </div>
 

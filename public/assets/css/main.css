@@ -67,7 +67,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f5f6f7;
+  background-color: rgb(231, 231, 144);
 }
 
 .section-header {
@@ -570,6 +570,7 @@ section {
 .about-us .content p:last-child {
   margin-bottom: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Get Started Section
@@ -2598,7 +2599,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   color: #fff;
-  background: url("../img/footer-bg.jpg") top center no-repeat;
+  background: url("../img/hero-carousel-5.jpg") top center no-repeat;
   background-size: cover;
   font-size: 14px;
   padding: 80px 0 60px 0;

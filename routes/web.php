@@ -20,7 +20,8 @@ use App\Http\Controllers\furnitures\furnituresController;
 // Route::get('/', function () {
 //     return view('main header/final_header');
 // });
- Route::get('/makiba', [HomePageController::class, 'home'])->name('makiba.home');
+Route::get('/portfolio', [HomePageController::class, 'portfolio'])->name('makiba.portfolio');
+Route::get('/makiba', [HomePageController::class, 'home'])->name('makiba.home');
  Route::get('/contract_works', [contract_worksController::class, 'contractworks'])->name('contract.works');
  Route::get('/metal', [contract_worksController::class, 'metal_works'])->name('metal.works');
  Route::get('/gybsum', [contract_worksController::class, 'gybsum_works'])->name('gybsum.works');
